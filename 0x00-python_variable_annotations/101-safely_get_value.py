@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """ 101. Safely get value! """
 

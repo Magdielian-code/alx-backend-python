@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """ 102. Type Checking """
 
